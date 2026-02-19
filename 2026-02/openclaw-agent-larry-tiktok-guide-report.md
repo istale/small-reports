@@ -3,9 +3,9 @@
 > 目的：整理並萃取〈How my OpenClaw agent, Larry, got millions of TikTok views in one week. (Full step-by-step guide)〉這篇長文的可複用做法，並轉成能在 OpenClaw 專案裡落地的流程/規格。
 
 ## 原文連結（必放）
-- 目前可公開引用到的版本（archive.ph）：https://archive.ph/zefae  
-  - 註：此站可能需要 CAPTCHA，工具化抓取不穩定。
-- 可能的原始貼文出處（X / Twitter）：原文看起來是 X 上的長貼文/串文；由於 X 對抓取限制，這裡先以 archive 連結作為穩定引用點。
+- 原始貼文（X / Twitter）：https://x.com/oliverhenry/status/2022011925903667547
+- 備援引用（archive.ph）：https://archive.ph/zefae  
+  - 註：此站可能需要 CAPTCHA，工具化抓取不穩定；但作為備援/快照引用點仍有價值。
 
 ## 一句話摘要
 把 TikTok 行銷拆成「可批次化的投放素材產線」：用 agent 自動化產生 *6 張固定格式* 的 photo carousel（含 hook 文案 + caption + hashtag），透過排程工具 API 上傳成 **draft**，人類只負責最後一步（挑音樂 + 發佈）。核心不是模型，而是 **skill files + 持續修正規則的記憶系統**。
